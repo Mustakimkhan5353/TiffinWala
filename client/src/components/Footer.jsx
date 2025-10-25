@@ -18,7 +18,7 @@ function Footer() {
             <li className='px-2 flex gap-2 items-center  text-lg'><MdEmail className=''
             />tifinwala4@gmail.com</li>
             <li className='px-2 flex gap-1 items-center text-lg'><BsFillTelephoneFill className=''
-            />7485962315 / 7854239621</li>
+            /> 0017854497</li>
             <li className='px-2 py-3 flex gap-2 items-center  text-lg cursor-pointer'><BsFacebook color="primary" /> <BsInstagram sx={{ color: "pink[500]" }} /> <BsTwitter color="primary" /></li>
           </ul>
         </div>
@@ -33,7 +33,7 @@ function Footer() {
         </div>
       </div>
       <div className=" py-4 bg-slate-700 text-white">
-        <p className='text-normal text-center font-medium sm:text-lg sm:font-serif'>© Copyright 2022-2023 www.TiffinWala.com All rights reserved. Developed by TiffinWala</p>
+        <p className='text-normal text-center font-medium sm:text-lg sm:font-serif'>© Copyright 2025-2026 www.TiffinWala.com All rights reserved. Developed by TiffinWala</p>
       </div>
 
     </footer>

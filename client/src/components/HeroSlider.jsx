@@ -63,10 +63,6 @@ function HeroSliderMd(){
 function HeroSlider() {
   const slidesData = [
     {
-        title:"Get Your Meals Delivered from Curated Home Chefs Around You",
-        img:"https://alignthoughts.com/wp-content/uploads/2016/10/align-thoughts-indian-thali.jpg"
-    },
-    {
         title:"Food Is Our Common Ground, Universal Experience",
         img:"https://imgs.search.brave.com/QtZppep4gzh0sfbCVSUaSrHeBSLuMppfQSLjoFPEeDw/rs:fit:1200:628:1/g:ce/aHR0cHM6Ly9pbWdz/dGF0aWNjb250ZW50/LmxiYi5pbi9sYmJu/ZXcvd3AtY29udGVu/dC91cGxvYWRzL3Np/dGVzLzIvMjAxOC8w/NS8yMjIxMzM1OS9I/b21lbHkxLmpwZz93/PTEyMDAmaD02Mjgm/ZmlsbD1ibHVyJmZp/dD1maWxs"
     },
